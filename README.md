@@ -18,6 +18,9 @@ Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
 */
+n=int(input())
+print("Exponentiation of a given number:",n**2)
+
 ```
 
 ## Output:
