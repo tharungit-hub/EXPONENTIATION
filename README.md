@@ -15,8 +15,8 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by: M VIGNESH
+RegisterNumber: 21004061
 */
 n=int(input())
 print("Exponentiation of a given number:",n**2)
